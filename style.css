@@ -1,0 +1,13 @@
+input {
+	margin: 10px; 
+  padding: 12px 20px;
+  border: 2px solid #ccc;
+}
+body {
+  background: url(https://hspline.com/wp-content/uploads/2020/02/Tonalnyy-risunok-cilindra-2.jpg)
+    center / cover fixed;
+}
+label{
+   color: black;
+  font-family: capitalize;
+}
